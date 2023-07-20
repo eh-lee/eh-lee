@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**eh-lee/eh-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1> 
+This is eh-lee, FE developer
+</h1>  
+<h3 style="text-align: left;">My Interests</h3>
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://skillicons.dev/icons?i=js&perline=1"/>
+  <img src="https://skillicons.dev/icons?i=ts&perline=1"/>
+  <img src="https://skillicons.dev/icons?i=react&perline=1"/>
+  <img src="https://skillicons.dev/icons?i=jest&perline=1"/> 
+  <img src="https://skillicons.dev/icons?i=blender&perline=1"/>
+  <img src="https://skillicons.dev/icons?i=threejs&perline=1"/>
+</div>
