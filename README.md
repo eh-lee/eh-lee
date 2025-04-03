@@ -1,5 +1,5 @@
 <h1> 
-This is eh-lee, FE developer
+This is eh-lee, dev PM & FE developer
 </h1>  
 <h3 style="text-align: left;">My Interests</h3>
 <div style="display: flex; align-items: flex-start;">
