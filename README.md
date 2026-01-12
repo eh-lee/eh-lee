@@ -1,5 +1,5 @@
 <h1> 
-This is eh-lee, FE developer
+Where Words and Code Become Worlds
 </h1>  
 <div style="display: flex; align-items: flex-start;">
   <img src="https://skillicons.dev/icons?i=aws"/>
