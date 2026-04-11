@@ -1,6 +1,9 @@
 <h1> 
 Where Words and Code Become Worlds
 </h1>  
+<h4>
+R.I.P. my 1,000+ green dots. Gone but not forgotten(and all because of a single email setting).
+</h4>
 <div style="display: flex; align-items: flex-start;">
   <img src="https://skillicons.dev/icons?i=aws"/>
   <img src="https://skillicons.dev/icons?i=vercel"/>
